@@ -13,7 +13,7 @@
  |1|500 mA polyfuse|
  |2|6mm momentary push buttons|
  |1|16 MHz quartz crystal|
- |1|4.7 uF electrolytic capacitor|
+ |1|10 uF electrolytic capacitor|
  |2|100 nF ceramic disk capacitor|
  |2|22 pF ceramic disk capacitor|
  |2|68 Ω resistor|
